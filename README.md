@@ -4,7 +4,10 @@
 
 Node-red dashboard URL: https://node-red-maqav.eu-gb.mybluemix.net/ui/#!/0?socketid=6xsAwn9xp2rjKtdtAAAA
 
-Video demonstration(drive) : https://drive.google.com/file/d/1cnGgTS4Ub6o3kzFtn8BOVS7kqD_Up_bW/view?usp=sharing
+Video demonstration(drive) : https://drive.google.com/file/d/13FEY8AYjQVaLotxx0tQcSfGVFHEdxthD/view?usp=sharing
+
+Feedback(drive):https://drive.google.com/file/d/1kOozwwA7wDwiH8fJZw0XEnX_Pe1cbGD0/view?usp=sharing
+ 
 
 Dataset : https://www.kaggle.com/kumarajarshi/life-expectancy-who?rvi=1
 
